@@ -6,6 +6,7 @@
 [![](https://img.shields.io/badge/DISCORD-JOIN%20SERVER-5663F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zXXHvAXCug)
 [![](https://img.shields.io/badge/KakaoTalk-Join%20Room-FEE500?style=for-the-badge&logo=kakao)](https://open.kakao.com/o/gEwrffbg)
 # card_swiper_example
+card swiper example using [card_swiper package](https://pub.dev/packages/flutter_card_swiper)
 
 ##  Installation
 1. If the juneflow project doesn't exist, please create it by following [this guide](https://doc.juneflow.org/).
@@ -15,9 +16,9 @@
     ```
 3. start the project by entering the following command.
     ```bash
-    flutter run [execute file path here] -d chrome
+    flutter run lib/app/_/_/interaction/view.blueprint/page/card_swiper_example/_/view.dart -d chrome
     ```
 
 ## Screenshots
-![]()
+![](https://github.com/juneview-songdo/card_swiper_example/assets/21379657/819e6771-f103-47f9-956e-aace94db8aa8)
 

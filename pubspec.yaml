@@ -1,7 +1,7 @@
 name: card_swiper_example
-description: "Description here"
+description: "flutter card swiper package example"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/card_swiper_example
 
 version: 1.0.0+1
 
